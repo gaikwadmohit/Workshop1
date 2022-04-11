@@ -1,5 +1,6 @@
 package gamblerGame;
 
+public class Gambling {
 public static void main(String[] args) {
 			
 			int stake = 100;
