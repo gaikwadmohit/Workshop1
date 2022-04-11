@@ -1,4 +1,4 @@
-package gamblerGame;'
+package gamblerGame;
 
 public class Gambling {
 	static int stake = 100;
